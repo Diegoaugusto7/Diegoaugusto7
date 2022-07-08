@@ -1,4 +1,12 @@
-### Hi there 👋
+### Opa! Tudo bem? 👋
+ 
+Prazer, me chamo Diego Augusto.
+
+• Graduado em Ciências Contábeis pela Faculdade Pitágoras.<br>
+• Possuo grande interesse na área de tecnologia, negócios, marketing.<br>
+• Sempre em busca de saber o porquê das coisas e como elas funcionam de verdade.
+
+
 
 <!--
 **Diegoaugusto7/Diegoaugusto7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
