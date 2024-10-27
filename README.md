@@ -1,6 +1,8 @@
 ### Opa! Tudo bem? 👋
 ### Me chamo Diego, estou em uma jornada de transição profissional e sou apaixonado por tecnologia!
 
+
+
 Formação: Graduado em Ciências Contábeis pela Faculdade Pitágoras e atualmente cursando Engenharia de Software na Estácio.
 
 Transição Profissional: Focado em desenvolvimento de sistemas e automação de processos.
