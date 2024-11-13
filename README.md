@@ -4,7 +4,6 @@
 
 
 Formação: Graduado em Ciências Contábeis pela Faculdade Pitágoras e atualmente cursando Engenharia de Software na Estácio.
-
 Transição Profissional: Focado em desenvolvimento de sistemas e automação de processos.
 
 Habilidades Técnicas: HTML, CSS, JavaScript, Shopify, WordPress e Google Analytics.
