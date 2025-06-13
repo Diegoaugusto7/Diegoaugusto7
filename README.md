@@ -3,16 +3,13 @@
 
 
 
-Formação: Graduado em Ciências Contábeis pela Faculdade Pitágoras e atualmente cursando Engenharia de Software na Estácio.
-Transição Profissional: Focado em desenvolvimento de sistemas e automação de processos.
+🎓 Formação: Graduado em Ciências Contábeis e atualmente cursando Engenharia de Software. Estagiando na Drogaria Araujo, na Operação SAP, com foco nos modulos FI/CO.
 
-Habilidades Técnicas: HTML, CSS, JavaScript, Shopify, WordPress e Google Analytics.
+💻 Habilidades: Com conhecimentos em HTML, CSS, JavaScript, Shopify e WordPress, SAP estou sempre em busca de aprender mais e aplicar tecnologias de forma prática.
 
-Experiência: Gestão de dados em e-commerce e desenvolvimento de projetos práticos.
+👤 Sobre Mim: Sou proativo e curioso, gosto de criar soluções inovadoras e explorar como a tecnologia pode facilitar nosso dia a dia.
 
-Interesses: Gosto de criar novas soluções e inovar, explorando como a tecnologia pode facilitar nosso dia a dia
-
-Objetivos: Contribuir para projetos e me conectar com pessoas que desejam compartilhar conhecimento e dicas na área.
+🎯 Objetivo: Busco me conectar com profissionais da área para compartilhar experiências, trocar conhecimentos e contribuir para projetos desafiadores.
 
 
 
