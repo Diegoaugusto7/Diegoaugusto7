@@ -1,5 +1,5 @@
 ### Opa! Tudo bem? 👋
-### Me chamo Diego, estou em uma jornada de transição profissional e sou apaixonado por tecnologia!
+### Me chamo Diego!
 
 
 
